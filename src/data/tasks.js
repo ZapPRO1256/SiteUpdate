@@ -1,7 +1,7 @@
 export const tasks = [
   {
     id: 1_0,
-    title: 'Сума двох чисел',
+    title: 'Сума 2 чисел',
     htmlContent: '<p>Реалізувати програму, яка обчислює та повертає суму двох чисел(a, b).</p>',
     arg: 'a,b',
     execute: (myEqual, f) => {
